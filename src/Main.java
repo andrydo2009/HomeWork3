@@ -160,7 +160,7 @@ public class Main {
         System.out.println(" - Кристина теперь получает в месяц " + endCristina + " рубля. Годовой доход " + newYearC + " рублей и вырос на " + averageC + " рублей.");
 
 
-
+        System.out.println("THE END");
 
 
     }
